@@ -8,6 +8,8 @@ Feature map:
 
 
 Generate Grad-CAM heatmap:
-- Applying the same methodology as this(https://arxiv.org/abs/1610.02391
-) paper 
+- Applying the same methodology as the following paper: 
+https://arxiv.org/abs/1610.02391
+
+
   ![Capture1](https://user-images.githubusercontent.com/54632431/145389996-7aa4eab9-26aa-4df5-91ae-bde7bfed396f.PNG)
