@@ -1,1 +1,1 @@
-# Feature-Mmaps-of-AlexNet
+# Feature-Maps-of-AlexNet
